@@ -1,3 +1,8 @@
+PEOPLECURE NOTES
+==========
+
+The original script may not be compatible with some modern python architecture. So, I updated the original script to make it python 3.9 compatible. 
+
 wifijammer
 ==========
 
