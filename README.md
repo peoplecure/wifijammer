@@ -1,7 +1,9 @@
-PEOPLECURE NOTES
+people NOTES
 ==========
 
 The original script may not be compatible with some modern python architectures. So, I updated the original wifijammer execution file to make it python 3.9 compatible. 
+
+Kick out freeloaders from your wifi.
 
 wifijammer
 ==========
